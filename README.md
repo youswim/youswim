@@ -32,9 +32,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youswim&show_icons=true&theme=onedark">
+<img src="https://github-readme-stats-youswim.vercel.app/api?username=youswim&show_icons=true&theme=onedark">
 </p>
-
 <!--
 **youswim/youswim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
