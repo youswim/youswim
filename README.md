@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="center">Project Repository</h3>
-<li align="center"><a href="https://github.com/youswim/core-banking-demo">오케스트레이션 사가로 구현한 송금 서비스</li><br>
+<p align="center"><a href="https://github.com/youswim/core-banking-demo">오케스트레이션 사가로 구현한 송금 서비스</a></p>
 
 <h3 align="center">Personal Study</h3>
 <div align="center">
