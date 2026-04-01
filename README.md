@@ -28,7 +28,8 @@
 <div align="center">
 <a href="https://cyan-hearing-520.notion.site/35dfe79696144b48823dec0c16fdc264"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 </div>
-<div align="center" style="font-size:0.5em">노션 아이콘 클릭 시, 제 개인 공부 페이지 저장소로 이동합니다.</div>
+
+<div align="center"><sub>노션 아이콘 클릭 시, 제 개인 공부 페이지 저장소로 이동합니다.</sub></div>
 <br>
 
 
