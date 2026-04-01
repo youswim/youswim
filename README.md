@@ -10,13 +10,7 @@
 <h3 align="center">Backend Framework</h3>
 
 <p align="center">
-<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
-</p>
-
-<h3 align="center">View</h3>
-
-<p align="center">
-<a href="https://www.thymeleaf.org/"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
 </p>
 
 <h3 align="center">Database</h3>
@@ -25,22 +19,15 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 </p>
 
-<h3 align="center">Personal Study</h3>
+<h3 align="center">Project Repository</h3>
+<li align="center"><a href="https://github.com/youswim/core-banking-demo">오케스트레이션 사가로 구현한 송금 서비스</li><br>
 
+<h3 align="center">Personal Study</h3>
 <div align="center">
 <a href="https://cyan-hearing-520.notion.site/35dfe79696144b48823dec0c16fdc264"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 </div>
 <div align="center" style="font-size:0.5em">노션 아이콘 클릭 시, 제 개인 공부 페이지 저장소로 이동합니다.</div>
 <br>
-
-<h3 align="center">Project Repository</h3>
-<li align="center"><a href="https://github.com/youswim/Hproject">스마트 신호등</li><br>
-
-
-
-<p align="center">
-<img src="https://github-readme-stats-youswim.vercel.app/api?username=youswim&show_icons=true&theme=onedark">
-</p>
 
 
 
